@@ -7,4 +7,5 @@
 
 # Education
 - Sukhoi State Technical University of Gomel, Belarus.
-
+# English  
+At the moment I am attending courses from Streamline for the pre-intermediate level
